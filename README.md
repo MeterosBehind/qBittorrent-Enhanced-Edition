@@ -4,7 +4,7 @@ qBittorrent Enhanced Edition
 ********************************
 # Features:
 1. Auto Ban Xunlei, QQ, Baidu, Xfplay, DLBT and Offline downloader
-
+谢谢你
 2. _Auto Ban Unknown Peer from China_ Option (Default: OFF)
 
 3. Auto Update Public Trackers List (Default: OFF)
